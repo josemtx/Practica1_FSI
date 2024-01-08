@@ -1,7 +1,6 @@
 ---
 
 # Memoria Práctica 1 FSI – Algoritmos de Búsqueda
-
 ### Fundamentos de los Sistemas Inteligentes
 **Curso**: Segundo  
 **Grado**: Grado en Ciencia e Ingeniería de Datos  
