@@ -10,6 +10,9 @@ Este proyecto implementa varios algoritmos de búsqueda, incluyendo DFS (Búsque
 - `utils.py`: Incluye funciones auxiliares para crear estructuras de datos como pilas y colas.
 - `run.py`: Utiliza los algoritmos de búsqueda para mostrar en consola los resultados, incluyendo la cantidad de nodos generados, expandidos y el costo según el algoritmo empleado.
 
+## Tabla comparativa
+
+
 ## Recursos Utilizados
 Se han empleado recursos de video tutoriales y material proporcionado por la asignatura, así como herramientas de desarrollo de software, algunos de estos recursos son:
 
