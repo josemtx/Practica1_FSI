@@ -1,14 +1,18 @@
----
+# Weather Forecast
+### Application Development for Data Science(DACD)
+**Course**: Second  
+**Degree**: Bachelor in Data Science and Engineering  
+**School**: School of Computer Engineering  
+**University**: Universidad de Las Palmas de Gran Canaria (ULPGC)
 
-# Memoria Práctica 1 FSI – Algoritmos de Búsqueda
-### Fundamentos de los Sistemas Inteligentes
-**Curso**: Segundo  
-**Grado**: Grado en Ciencia e Ingeniería de Datos  
-**Escuela**: Escuela de Ingeniería Informática  
-**Universidad**: Universidad de Las Palmas de Gran Canaria (ULPGC)  
-**Autores**: Luis Guillén Servera, José Mataix Pérez
+## Functionality Summary
+The "Weather Forecast" project is a Java application designed to capture and store meteorological data. It utilizes the OpenWeatherMap API to fetch weather forecasts and stores the data in an SQLite database. The application queries the API every 6 hours, collecting data such as temperature, probability of precipitation, humidity, cloudiness, and wind speed for various locations. This data is used for weather analysis and prediction, serving as a valuable tool in the field of data science and meteorological analysis.
 
-## Descripción
+## Utilized Resources
+- **Development Environment**: IntelliJ IDEA
+- **Version Control**: Git, facilitating source code management and tracking changes made during development.
+- **Documentation Tools**: MarkDown used for creating this document, enabling a clear and structured presentation of the project.
+ción
 Este proyecto implementa varios algoritmos de búsqueda, incluyendo DFS (Búsqueda en Profundidad), BFS (Búsqueda en Anchura), BB (Rama y Acotación), y BBS (Rama y Acotación con Subestimación). Estos métodos se aplican para resolver problemas de rutas usando un mapa de ciudades de Rumanía.
 
 ## Archivos en el Proyecto
