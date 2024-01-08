@@ -11,7 +11,7 @@ Este proyecto implementa varios algoritmos de búsqueda, incluyendo DFS (Búsque
 - `run.py`: Utiliza los algoritmos de búsqueda para mostrar en consola los resultados, incluyendo la cantidad de nodos generados, expandidos y el costo según el algoritmo empleado.
 
 ## Tabla comparativa
-
+![image](https://github.com/josemtx/dataCapturing/blob/ca968221d39e012680ea592158b69f239f68c836/Diagrama%20Weather.png)
 
 ## Recursos Utilizados
 Se han empleado recursos de video tutoriales y material proporcionado por la asignatura, así como herramientas de desarrollo de software, algunos de estos recursos son:
