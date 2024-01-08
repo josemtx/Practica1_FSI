@@ -26,5 +26,3 @@ Se han empleado recursos de video tutoriales y material proporcionado por la asi
 - [Chat de OpenAI](https://chat.openai.com)
 
 ---
-
-Este formato debería funcionar bien en plataformas que soportan Markdown, como GitHub. La imagen se incrustará automáticamente en el README si la URL es correcta y la imagen está accesible públicamente en ese enlace.
