@@ -2,6 +2,13 @@
 
 # Memoria Práctica 1 FSI – Algoritmos de Búsqueda
 
+### Fundamentos de los Sistemas Inteligentes
+**Curso**: Segundo  
+**Grado**: Grado en Ciencia e Ingeniería de Datos
+**Escuela**: Escuela de Ingeniería Informática
+**Universidad**: Universidad de Las Palmas de Gran Canaria (ULPGC)
+**Autores**: Luis Guillén Servera, José Mataix Pérez
+
 ## Descripción
 Este proyecto implementa varios algoritmos de búsqueda, incluyendo DFS (Búsqueda en Profundidad), BFS (Búsqueda en Anchura), BB (Rama y Acotación), y BBS (Rama y Acotación con Subestimación). Estos métodos se aplican para resolver problemas de rutas usando un mapa de ciudades de Rumanía.
 
